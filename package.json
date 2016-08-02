@@ -1,0 +1,28 @@
+{
+  "name": "screen-renderer",
+  "version": "0.1.0",
+  "description": "a CLI tool to help render regions of the screen",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acdtrx/screen-renderer.git"
+  },
+  "keywords": [
+    "cli",
+    "renderer",
+    "updater",
+    "screen"
+  ],
+  "author": "Alex NOVAC <acdtrx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acdtrx/screen-renderer/issues"
+  },
+  "homepage": "https://github.com/acdtrx/screen-renderer"
+}
