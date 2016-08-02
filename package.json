@@ -1,6 +1,6 @@
 {
   "name": "screen-renderer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a CLI tool to help render regions of the screen",
   "main": "index.js",
   "directories": {

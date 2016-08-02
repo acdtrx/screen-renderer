@@ -39,7 +39,7 @@ function ScreenRenderer( _renderer ) {
       }
     }
 
-    if( _render === undefined || _render ) ) {
+    if( _render === undefined || _render ) {
       render();
     }
   }
